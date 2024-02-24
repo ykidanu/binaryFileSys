@@ -1,0 +1,20 @@
+mkdir first
+cd first
+createFile first.t
+i love dogs
+pwd
+ls
+cat first.t
+cd ..
+pwd
+mkdir second
+cd second
+pwd
+mkdir third
+cd third
+pwd
+cd ..
+cd ..
+pwd
+printInfo
+quit
